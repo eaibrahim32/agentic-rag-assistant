@@ -173,3 +173,10 @@ Docker image on a separate job gated behind the tests.
 
 LangGraph · LangChain · ChromaDB · sentence-transformers · Ollama · FastAPI ·
 Docker · GitHub Actions · pytest
+
+<img width="957" height="640" alt="image" src="https://github.com/user-attachments/assets/d7e7a385-5c6c-4fc2-98e5-7a9c97de8c84" />
+<img width="930" height="598" alt="image" src="https://github.com/user-attachments/assets/9bd2f0a2-c364-49f9-94b0-7e80e8cf714b" />
+<img width="793" height="421" alt="image" src="https://github.com/user-attachments/assets/b2bcc23d-a06d-4569-94a3-046b41a49793" />
+
+
+
